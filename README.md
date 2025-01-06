@@ -1,6 +1,5 @@
 # 💫 About Me:
-Frontend web developer
-
+Experienced frontend wizard specializing in HTML, CSS, Tailwind CSS, and ReactJS! Let me craft pixel-perfect designs, responsive layouts, and dynamic user interfaces to elevate your web projects. With a keen eye for detail and a passion for clean code, I ensure top-notch quality and efficiency in every task. Whether it's building stunning websites from scratch or optimizing existing ones, I'm here to bring your vision to life. Let's collaborate and create something extraordinary together!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mmakbar98) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Muhammad Mujeeb Akbar  ) 
